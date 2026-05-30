@@ -42,3 +42,32 @@ Anderson Araujo
 ## Licença
 
 GPL v3
+## Screenshots
+
+### Área de Trabalho
+
+![Desktop](screenshots/desktop.png)
+
+### Menu Principal
+
+![Menu](screenshots/menu.png)
+
+### Tela de Login
+
+![Login](screenshots/login.png)
+
+### Instalador
+
+![Installer](screenshots/installer.png)
+
+### IA Local
+
+![IA Local](screenshots/ia%20local.png)
+
+### LibreOffice
+
+![LibreOffice](screenshots/libreoffice.png)
+
+### Discover
+
+![Discover](screenshots/discover.png)
