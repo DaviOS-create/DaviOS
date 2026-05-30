@@ -1,6 +1,8 @@
 # DaviOS Gamer Edition 1.0
 
-![DaviOS](https://davios-create.github.io/logo.png)
+<p align="center">
+  <img src="screenshots/logo.png" width="300">
+</p>
 
 Uma distribuição Linux baseada em Linux Mint 22.3 e KDE Plasma, criada em homenagem ao Davi.
 
