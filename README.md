@@ -37,7 +37,7 @@ A DaviOS nasceu como um projeto familiar criado para facilitar o acesso à tecno
 
 ## Autor
 
-Anderson Alves
+Anderson Araujo
 
 ## Licença
 
