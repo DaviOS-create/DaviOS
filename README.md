@@ -73,3 +73,12 @@ GPL v3
 ### Discover
 
 ![Discover](screenshots/discover.png)
+
+
+# DaviOS Gamer Edition PRO 1.0
+
+## Download
+
+🚀 Baixe a versão mais recente:
+
+https://sourceforge.net/projects/davios/
