@@ -1,4 +1,5 @@
-# DaviOS Gamer Edition 1.0
+DaviOS Gamer Edition PRO 1.1
+
 
 <p align="center">
   <img src="screenshots/logo.png" width="300">
