@@ -78,7 +78,16 @@ GPL v3
 # DaviOS Gamer Edition PRO 1.0
 
 ## Download
-
 🚀 Baixe a versão mais recente:
 
+### Opção 1 (Recomendada)
+SourceForge:
 https://sourceforge.net/projects/davios/
+
+### Opção 2 (Espelho Google Drive)
+
+[https://drive.google.com/...](https://drive.google.com/file/d/1OCuCvq5_MzQLctAdHW2JOkHWyMxstxOV/view?usp=sharing)
+
+## SHA256
+23f5b8b22ca38290023dda357ca33201dd01553a5366b1a18b8e2bbdfcecddd6
+
