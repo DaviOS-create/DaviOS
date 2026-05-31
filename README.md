@@ -102,6 +102,9 @@ Destaques:
 SourceForge:
 https://sourceforge.net/projects/davios/
 
+🚀Ou link direto para a V1.1🚀
+https://sourceforge.net/projects/davios/files/v1.1/
+
 ### Opção 2 (Espelho Google Drive)
 
 https://drive.google.com/file/d/1luvFq-Y1IVF035rUmKFa9crOnGXrRnSz/view?usp=drive_link
