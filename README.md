@@ -100,7 +100,7 @@ Destaques:
 
 ### Opção 1 (Recomendada)
 SourceForge:
-https://sourceforge.net/projects/davios/
+https://sourceforge.net/projects/davios/files/
 
 🚀Ou link direto para a V1.1🚀
 https://sourceforge.net/projects/davios/files/v1.1/
