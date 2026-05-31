@@ -76,8 +76,25 @@ GPL v3
 ![Discover](screenshots/discover.png)
 
 
-# DaviOS Gamer Edition PRO 1.0
+DaviOS Gamer Edition PRO 1.1 "Zena"
 
+SHA256:
+b623df4ed31401d4479777b27500c67752f6b27ded8ed7793839d314c0a9a800
+
+Kernel:
+6.17.0-35
+
+Desktop:
+KDE Plasma
+
+Destaques:
+• GRUB Mario Theme
+• Windows11-Sddm
+• Duplo clique por padrão
+• Davifetch oficial
+• IA Local (Ollama + Alpaca)
+• Eden Emulator integrado
+• Chrome e WebApps integrados
 ## Download
 🚀 Baixe a versão mais recente:
 
@@ -87,10 +104,11 @@ https://sourceforge.net/projects/davios/
 
 ### Opção 2 (Espelho Google Drive)
 
-[https://drive.google.com/...](https://drive.google.com/file/d/1OCuCvq5_MzQLctAdHW2JOkHWyMxstxOV/view?usp=sharing)
+https://drive.google.com/file/d/1luvFq-Y1IVF035rUmKFa9crOnGXrRnSz/view?usp=drive_link
 
-## SHA256
-23f5b8b22ca38290023dda357ca33201dd01553a5366b1a18b8e2bbdfcecddd6
+
+SHA256:
+b623df4ed31401d4479777b27500c67752f6b27ded8ed7793839d314c0a9a800
 
 ❤️ Apoie o Projeto
 ![Discover](screenshots/qr.png)
