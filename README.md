@@ -91,3 +91,5 @@ https://sourceforge.net/projects/davios/
 ## SHA256
 23f5b8b22ca38290023dda357ca33201dd01553a5366b1a18b8e2bbdfcecddd6
 
+❤️ Apoie o Projeto
+![Discover](screenshots/qr.png)
