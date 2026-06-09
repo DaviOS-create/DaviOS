@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+</g>
+
+<g fill="#707d8a" fill-opacity="0.149996" stroke="#3daee9" stroke-opacity="0" stroke-width="2.5025" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+<circle cx="22.5" cy="22.5" r="22.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#707d8a" stroke-opacity="1" stroke-width="1.001" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+<image x="0" y="0" width="45" height="45" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABA0lEQVRYhe2WoW7DMBRFT5fP6I+sqKhweJWiarQwKCwoLChwdCCgeHCsGtgPFPRjIhXUoNUWL7Gf10q7ByWKde+x5NgGIYQQQggh7oKZ72NRNRnwBry3dblLLVNUzTPwBLy0ddkPjXv4JWcBrIHOBSbD5Xeub+Eb65Vu6/ITyN1rMvELYYDc9Q7iXR6eULOlEpI9Sjo0PFXmaOmYEuusSdKxZVYZk6VjSy0mHSQdWm61vIKlp0pY/g9R0mNlrHeeaGnwS6XYKk2k4We5VIeSmTR8E38Ftu7Z9BQ1lYYr8QzoMRbGBZvytf84PC5XR85XzM1fXGnNKKpmfmsHIYQQQoh/ywnDM5Nwa2D4DgAAAABJRU5ErkJggg==" />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+</g>
+</g>
+</svg>

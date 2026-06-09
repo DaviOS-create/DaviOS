@@ -1,0 +1,12 @@
+Source: zorin-icon-themes
+Section: gnome
+Priority: extra
+Maintainer: Artyom Zorin <azorin@zoringroup.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.1
+
+Package: zorin-icon-themes
+Architecture: all
+Depends: ${misc:Depends}
+Description: Zorin icon themes
+ The Zorin icon theme provided in a variety of color combinations.

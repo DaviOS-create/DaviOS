@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "Wallpaper/Images",
+  "KPlugin": {
+    "Id": "DaviOS-windows-11-floating-3840x2400-20797",
+    "Name": "windows-11-floating-3840x2400-20797",
+    "Authors": [
+      {
+        "Name": "DaviOS"
+      }
+    ]
+  }
+}

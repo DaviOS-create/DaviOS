@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "Wallpaper/Images",
+  "KPlugin": {
+    "Id": "DaviOS-davios-logo",
+    "Name": "davios-logo",
+    "Authors": [
+      {
+        "Name": "DaviOS"
+      }
+    ]
+  }
+}

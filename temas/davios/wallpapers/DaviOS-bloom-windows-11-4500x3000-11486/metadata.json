@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "Wallpaper/Images",
+  "KPlugin": {
+    "Id": "DaviOS-bloom-windows-11-4500x3000-11486",
+    "Name": "bloom-windows-11-4500x3000-11486",
+    "Authors": [
+      {
+        "Name": "DaviOS"
+      }
+    ]
+  }
+}

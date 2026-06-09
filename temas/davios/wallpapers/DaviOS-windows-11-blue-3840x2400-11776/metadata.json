@@ -1,0 +1,12 @@
+{
+  "KPackageStructure": "Wallpaper/Images",
+  "KPlugin": {
+    "Id": "DaviOS-windows-11-blue-3840x2400-11776",
+    "Name": "windows-11-blue-3840x2400-11776",
+    "Authors": [
+      {
+        "Name": "DaviOS"
+      }
+    ]
+  }
+}

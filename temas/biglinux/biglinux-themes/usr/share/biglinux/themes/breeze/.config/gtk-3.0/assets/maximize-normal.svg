@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 50 50"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+</g>
+
+<g fill="#232629" fill-opacity="0.0800031" stroke="none" transform="matrix(1,0,0,1,2.5,2.5)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+<circle cx="22.5" cy="22.5" r="22.5"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#232629" stroke-opacity="1" stroke-width="1.001" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+<image x="0" y="0" width="45" height="45" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABC0lEQVRYhe3ST0rDQBiG8cc/J0jIzl0wkEMInsFuhF7Be3gA8QgFjyF4hUIhkK2rhBxAEDfzQS22TWa+wc37bIYhYebHx4BSSimllPqf6qa9yXX2ZY5D66Z9BPqwunflfWCAboBr4KEoq24ah63nHa6T3gMDvIZ14z1xN/QBeN13uydgHfaucJfn8Qf4DWAah21RVh2wAlZeTyUZfQxs5YAnoc+BLW94NHou2PKER6GXgi0v+GJ0LNjygC9Cp4KtVPhstBfYSoHPQnuDrVj4WXQusBUDvzj1sW7aO+A9bN3BB3ftD+e+73Yfx/49OemirD6BW+A5Jxh+TfwLeJnG4TvnfUoppZRSSjn0AyeAwuNp09Z/AAAAAElFTkSuQmCC" />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Noto Sans Nerd Font" font-size="10" font-weight="500" font-style="normal" 
+>
+</g>
+</g>
+</svg>
