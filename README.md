@@ -65,7 +65,7 @@ GPL v3
 
 ### IA Local
 
-![IA Local](screenshots/ia%20local.png)
+![IA Local](screenshots/HUB1.png)
 
 ### LibreOffice
 
@@ -76,34 +76,66 @@ GPL v3
 ![Discover](screenshots/discover.png)
 
 
-DaviOS Gamer Edition PRO 1.1 "Zena"
+DaviOS Gamer Edition PRO 1.2.1 RC2
 
-SHA256:
-b623df4ed31401d4479777b27500c67752f6b27ded8ed7793839d314c0a9a800
+DaviOS Gamer Edition é uma distribuição Linux focada em jogos, inteligência artificial local, produtividade e facilidade de uso.
 
-Kernel:
-6.17.0-35
-
-Desktop:
+Base
+Linux Mint 22.3
+Ubuntu Noble
 KDE Plasma
+Recursos
+Gamer Hub
+Steam
+Heroic Games Launcher
+Lutris
+Bottles
+RetroDECK
+RetroArch
+PCSX2
+PPSSPP
+Dolphin
+DuckStation
+FCEUX
+Genesis Plus GX
+IA Local
+Ollama
+Open WebUI
 
-Destaques:
-• GRUB Mario Theme
-• Windows11-Sddm
-• Duplo clique por padrão
-• Davifetch oficial
-• IA Local (Ollama + Alpaca)
-• Eden Emulator integrado
-• Chrome e WebApps integrados
-## Download
-🚀 Baixe a versão mais recente:
+Modelos suportados:
 
-### Opção 1 (Recomendada)
-SourceForge:
-https://sourceforge.net/projects/davios/files/
+Gemma 3 4B
+Qwen 3 4B
+Llama 3.2 3B
 
-🚀Ou link direto para a V1.1🚀
-https://sourceforge.net/projects/davios/files/v1.1/
+Modelos opcionais:
+
+Gemma 3 12B
+Qwen 3 8B
+Llama 3.1 8B
+Phi-4 Mini
+Qwen Coder 7B
+IA de Imagem
+Stability Matrix
+ComfyUI
+Automatic1111
+InvokeAI
+WebApps
+ChatGPT
+GitHub
+Office Online
+Outlook
+WhatsApp
+Telegram
+YouTube
+Facebook
+Instagram
+X (Twitter)
+Discord
+
+Download
+🚀Ou link direto para a V1.2.1🚀
+https://sourceforge.net/projects/davios/files/1.2.1/
 
 ### Opção 2 (Espelho Google Drive)
 
@@ -111,7 +143,7 @@ https://drive.google.com/file/d/1luvFq-Y1IVF035rUmKFa9crOnGXrRnSz/view?usp=drive
 
 
 SHA256:
-b623df4ed31401d4479777b27500c67752f6b27ded8ed7793839d314c0a9a800
+f5e85520e82830cc2321c71024521971f3c07077de746f542d02accd6d68653e
 
 ❤️ Apoie o Projeto
 ![Discover](screenshots/qr.png)
