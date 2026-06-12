@@ -139,11 +139,11 @@ https://sourceforge.net/projects/davios/files/1.2.1/
 
 ### Opção 2 (Espelho Google Drive)
 
-https://drive.google.com/file/d/1luvFq-Y1IVF035rUmKFa9crOnGXrRnSz/view?usp=drive_link
+https://drive.google.com/file/d/1nV5vzyGDqWELfBrVgjisQNgMAnBaRiBF/view?usp=sharing
 
 
 SHA256:
-f5e85520e82830cc2321c71024521971f3c07077de746f542d02accd6d68653e
+f5e85520e82830cc2321c71024521971f3c07077de746f542d02accd6d68653e 
 
 ❤️ Apoie o Projeto
 ![Discover](screenshots/qr.png)
